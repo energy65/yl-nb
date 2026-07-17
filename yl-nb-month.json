@@ -64,6 +64,15 @@
             "api": "./drpy2.min.js",
             "ext": "./qq.js"
         },
+		    {
+          "key": "疼疼PY",
+          "name": "👌腾迅备丨[官源1080P&&4k]",
+          "api": "txsp.py",
+          "filterable": 1,
+          "quickSearch": 1,
+          "searchable": 1,
+          "type": 3
+        },
 	    {
           "key": "fengye1 PY",
           "name": "🍁fengye1[影视1080P]",
@@ -92,36 +101,6 @@
           "type": 3
         },
 		        {
-            "key": "奇乐影视",
-            "name": "👌奇乐[影视1080P]",
-            "type": 3,
-            "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/svip.txt",
-            "api": "csp_XBPQ",
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/奇乐.json"
-        },
-        {
-            "key": "新闪雷js",
-            "name": "👌🏻新闪雷|[影视1080P]",
-            "type": 3,
-            "api": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/drpy2.min.js",
-            "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/energy65/yl/refs/heads/main/闪雷.js"
-        },
-        {
-            "key": "瓜子js",
-            "name": "👌瓜子①[影视1080P]",
-            "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-            "ext": "./瓜子.js"
-        },
-		    {
-            "key": "csp_Guazi",
-            "name": "👌🏻瓜子②[影视1080P]",
-            "type": 3,
-            "api": "csp_Guazi",
-            "searchable": 1,
-            "changeable": 1
-        }, 
-		        {
             "key": "csp_Jianpian",
             "name": "👌🏻荐片┃[影视1080P]",
             "type": 3,
@@ -138,7 +117,7 @@
           "key": "永乐JS",
           "name": "👌永乐丨[影视1080P]",
           "type": 3,
-          "api": "https://mpimg.cn/down.php/0338609bd59d7b27226f5a269ec97936.js",
+          "api": "永乐.js",
           "style": {
             "type": "rect",
             "ratio": 1.33
@@ -148,7 +127,7 @@
         {
           "key": "猎手PY",
           "name": "👌猎手丨[影视1080P]",
-          "api": "https://mpimg.cn/down.php/60fab5ff33f0b0fd88f099ae3be708bf.py",
+          "api": "猎手.py",
           "filterable": 1,
           "quickSearch": 1,
           "searchable": 1,
@@ -157,7 +136,7 @@
 	        {
           "key": "兄弟PY",
           "name": "👌兄弟丨[影视1080P]",
-          "api": "https://mpimg.cn/down.php/b1cdcf76574a0cb24d5b937d46458cdf.py",
+          "api": "兄弟.py",
           "filterable": 1,
           "quickSearch": 1,
           "searchable": 1,
