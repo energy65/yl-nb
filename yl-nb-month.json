@@ -414,18 +414,6 @@
             "jar": "./svip.jar",
             "类型": "短剧"
         },
-		{
-           "key": "围观短剧",
-           "name": "😄围观｜[短剧]",
-           "type": 3,
-		   "jar": "./yl4.jar",
-           "api": "csp_WeiguanDJ",
-           "searchable": 1,
-           "changeable": 1,
-           "quickSearch": 1,
-           "filterable": 1,
-           "genre": "shortdrama"
-        },
 		 {
            "key": "星芽短剧",
            "name": "😄星芽｜[短剧]",
