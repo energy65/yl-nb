@@ -67,7 +67,7 @@
 		    {
           "key": "疼疼PY",
           "name": "👌腾迅备丨[官源1080P&&4k]",
-          "api": "txsp.py",
+          "api": "./txsp.py",
           "filterable": 1,
           "quickSearch": 1,
           "searchable": 1,
@@ -117,7 +117,7 @@
           "key": "永乐JS",
           "name": "👌永乐丨[影视1080P]",
           "type": 3,
-          "api": "永乐.js",
+          "api": "./永乐.js",
           "style": {
             "type": "rect",
             "ratio": 1.33
@@ -127,7 +127,7 @@
         {
           "key": "猎手PY",
           "name": "👌猎手丨[影视1080P]",
-          "api": "猎手.py",
+          "api": "./猎手.py",
           "filterable": 1,
           "quickSearch": 1,
           "searchable": 1,
@@ -136,7 +136,7 @@
 	        {
           "key": "兄弟PY",
           "name": "👌兄弟丨[影视1080P]",
-          "api": "兄弟.py",
+          "api": "./兄弟.py",
           "filterable": 1,
           "quickSearch": 1,
           "searchable": 1,
