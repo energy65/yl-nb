@@ -214,6 +214,24 @@
           "searchable": 1,
           "type": 3
         },
+						                     {
+          "key": "蝴蝶影视 PY",
+          "name": "👌蝴蝶影视丨[4k影视]",
+          "api": "./蝴蝶影视.py",
+          "filterable": 1,
+          "quickSearch": 1,
+          "searchable": 1,
+          "type": 3
+        },
+								                     {
+          "key": "电影侠 PY",
+          "name": "👌电影侠丨[4k影视]",
+          "api": "./电影侠.py",
+          "filterable": 1,
+          "quickSearch": 1,
+          "searchable": 1,
+          "type": 3
+        },
 			                        {
           "key": "4k-av PY",
           "name": "4k-av丨[4k影视]",

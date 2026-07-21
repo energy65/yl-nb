@@ -30,7 +30,7 @@ class Spider(Spider):
             ("超清320K", "320", 320),
             ("无损APE", "ape", 2000),
         ]
-        self.wx_gzh = "与哪里软件汇"
+        self.wx_gzh = "源力软件汇"
         self.default_pic = "https://cdn-icons-png.flaticon.com/512/2111/2111270.png"
         self.artist_type_map = {
             'artist_hot': '0',
