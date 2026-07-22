@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "csp_Douban",
-            "name": "源力内部测试版今天停止使用，如还想继续使用，请捐赠获取",
+            "name": "源力内部测试版今天停止使用，如还想继续使用，请联系作者捐赠获取",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0,
