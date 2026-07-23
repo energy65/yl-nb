@@ -113,6 +113,15 @@
                 "sites": "https://api.ztcgi.com"
             }
         },
+		                        {
+          "key": "瓜子优质 PY",
+          "name": "👌瓜子优质丨PY",
+          "api": "./瓜子优质.py",
+          "filterable": 1,
+          "quickSearch": 1,
+          "searchable": 1,
+          "type": 3
+        },
 		    {
           "key": "永乐JS",
           "name": "👌永乐丨[影视1080P]",
